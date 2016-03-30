@@ -61,7 +61,7 @@ Author
 
 A normal person just wanna see this world.
 
-[Twitter](https://twitter.com/itisbenjamin1)
+<i class="fa fa-twitter"></i>&nbsp;&nbsp;[Twitter](https://twitter.com/itisbenjamin1)
 
 License
 ======
