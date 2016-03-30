@@ -12,28 +12,28 @@ A Simple Jekyll Blog Theme.
 
 [Demo](http://benjaminblog.ml/Nice_Blog)
 
-![index-page](Nice_Blog/img/blog/index.png)
+![index-page](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/index.png)
 
 Introduce yourself in `About` page  :
-![about-page](Nice_Blog/img/blog/about.png)
+![about-page](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/about.png)
 
 And you can turn on or off your skills tree in `_config.yml` :  
-![skills-tree](Nice_Blog/img/blog/skillstree.png)
+![skills-tree](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/skillstree.png)
 
 Posts will be listed by years in `Archive` page:  
-![archive-page](Nice_Blog/img/blog/archive.png)
+![archive-page](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/archive.png)
 
 Post will be listed by categories in `Category` page:  
-![category-page](Nice_Blog/img/blog/category.png)
+![category-page](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/category.png)
 
 Post will be listed by tags in `Tags` page:  
-![tags-page](Nice_Blog/img/blog/tags.png)
+![tags-page](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/tags.png)
 
 You can put your `PGP` publickey in `Contact` page:  
-![contact-page](Nice_Blog/img/blog/contact.png)
+![contact-page](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/contact.png)
 
 Now you have a `404` page and it will jump back to `index` page itself:  
-![404-page](Nice_Blog/img/blog/404.png)
+![404-page](https://github.com/itisbenjamin/Nice_Blog/master/Nice_Blog/img/blog/404.png)
 
 How to use
 =========
@@ -56,5 +56,10 @@ Author
 A normal person just wanna see this world.
 
 [Twitter](https://twitter.com/itisbenjamin1)
+
+License
+======
+
+Use MIT License.
 
 
