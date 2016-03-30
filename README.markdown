@@ -27,7 +27,7 @@ Post will be listed by categories in `Category` page:
 ![category-page](https://itisbenjamin.github.io/Nice_Blog/img/blog/category.png)
 
 Post will be listed by tags in `Tags` page:  
-![tags-page](https://itisbenjamin.github.io/Nice_Blog/img/blog/ags.png)
+![tags-page](https://itisbenjamin.github.io/Nice_Blog/img/blog/tags.png)
 
 You can put your `PGP` publickey in `Contact` page:  
 ![contact-page](https://itisbenjamin.github.io/Nice_Blog/img/blog/contact.png)
