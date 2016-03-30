@@ -35,12 +35,6 @@ You can put your `PGP` publickey in `Contact` page:
 Now you have a `404` page and it will jump back to `index` page itself:  
 ![404-page](https://itisbenjamin.github.io/Nice_Blog/img/blog/404.png)
 
-If you add `finshed: true` in your post header, then an `EOF` container will show under your post like this:  
-<div class="eof"></div>
-
-Or it will show `TBC`:   
-<div class="tbc"></div>
-
 How to use
 =========
 
@@ -61,7 +55,7 @@ Author
 
 A normal person just wanna see this world.
 
-<i class="fa fa-twitter"></i>&nbsp;&nbsp;[Twitter](https://twitter.com/itisbenjamin1)
+[Twitter](https://twitter.com/itisbenjamin1)
 
 License
 ======
