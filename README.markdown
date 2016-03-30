@@ -14,25 +14,25 @@ A Simple Jekyll Blog Theme.
 
 ![index-page](Nice_Blog/img/blog/index.png)
 
-Introduce yourself in `About` page:
+Introduce yourself in `About` page  :
 ![about-page](Nice_Blog/img/blog/about.png)
 
-And you can turn on or off your skills tree in `_config.yml` :
+And you can turn on or off your skills tree in `_config.yml` :  
 ![skills-tree](Nice_Blog/img/blog/skillstree.png)
 
-Posts will be listed by years in `Archive` page:
+Posts will be listed by years in `Archive` page:  
 ![archive-page](Nice_Blog/img/blog/archive.png)
 
-Post will be listed by categories in `Category` page:
+Post will be listed by categories in `Category` page:  
 ![category-page](Nice_Blog/img/blog/category.png)
 
-Post will be listed by tags in `Tags` page:
+Post will be listed by tags in `Tags` page:  
 ![tags-page](Nice_Blog/img/blog/tags.png)
 
-You can put your `PGP` publickey in `Contact` page:
+You can put your `PGP` publickey in `Contact` page:  
 ![contact-page](Nice_Blog/img/blog/contact.png)
 
-Now you have a `404` page and it will jump back to `index` page itself:
+Now you have a `404` page and it will jump back to `index` page itself:  
 ![404-page](Nice_Blog/img/blog/404.png)
 
 How to use
