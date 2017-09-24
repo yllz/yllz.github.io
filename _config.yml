@@ -3,8 +3,8 @@ title: My Little Blog
 name: Linsey Yao # your name
 email: yllz9610@gmail.com # your email address
 description: live love laugh
-baseurl: "/yllz.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com/yllz" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yllz.github.io" # the base hostname & protocol for your site
 github_username: yllz # your Github username
 
 
