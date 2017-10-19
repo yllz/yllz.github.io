@@ -6,6 +6,7 @@ description: live love laugh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yllz.github.io" # the base hostname & protocol for your site
 github_username: yllz # your Github username
+instagram_username: iamlinseyy
 
 
 skillstree: true # turn on or off the skills tree in about page
